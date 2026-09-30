@@ -9,8 +9,7 @@
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahang0216&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahang0216&layout=compact)
 <!--
 **sahang0216/sahang0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
